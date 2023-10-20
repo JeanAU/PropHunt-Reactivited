@@ -37,11 +37,18 @@ Download the zip from the [latest release](https://github.com/JeanAU/PropHunt-Re
 
 Although the mod *may* work on official servers, it is highly discouraged to do so, and will likely get you banned. Instead, try to add [MiniRegionInstall](https://github.com/miniduikboot/Mini.RegionInstall) you can see in their github repo.
 
+**Note : ban manager will disable in next version**
+
 ## Compatability
 Prop Hunt is fully compatible with [Submerged](https://github.com/SubmergedAmongUs/Submerged)!
 
 
 However, Prop Hunt will **not** work with many other mods, such as role mods and any other mod which modifies the gameplay loop.
+
+## News :
+Next Version will be excusive with fixing bugs, features, Account System, collectiong data many more... and yeah new account system will be next version with [GLMod](https://github.com/MatuxGG/GLMod) all info on the link 
+
+Note : PropHunt will be very good on The Fungle Map (new map) with new task to disguise enjoy :)
 
 ## Contributing
 Contributions are welcome! Submit a [pull request](https://github.com/JeanAU/PropHunt-Reactivited/pulls) and give a brief description and the code will be reviewed as soon as possible.
